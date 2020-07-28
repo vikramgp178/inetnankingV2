@@ -1,1 +1,2 @@
 git check pull command
+changes done from local machine
